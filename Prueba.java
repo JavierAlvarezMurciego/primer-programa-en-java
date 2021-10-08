@@ -3,6 +3,7 @@ public class Prueba{
 	
 	System.out.println("Nombre: Javier Alvarez Murciego");
 	System.out.println("Nacimiento: Leon Ano: 2002");
+	System.out.println("Sistema Operativo: Windows");
 	}
 
 }
